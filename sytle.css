@@ -1,0 +1,11 @@
+* {
+    color:blue
+}
+/*These is how comments are written in CSS */
+p{
+  color:;  
+}
+body{
+    background-color: cadetblue;
+    opacity: 0.5;
+}
