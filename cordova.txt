@@ -1,0 +1,1 @@
+ionic start bambuser-examplebroadcaster-ionic tabs --cordova --no-link --bundle-id com.example.bambuserbroadcaste
